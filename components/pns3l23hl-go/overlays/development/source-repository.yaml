@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: pns3l23hl-go-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/pns3l23hl-go
